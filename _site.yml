@@ -1,0 +1,20 @@
+name: "my-website"
+
+output_dir: "docs"
+
+navbar:
+  title: "Ramakrishnan"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Projects"
+      href: projects.html
+
+
+output:
+  html_document:
+    theme: cosmo      # or cerulean, journal, flatly, yeti, etc.
+    highlight: tango  # code highlighting style
+
