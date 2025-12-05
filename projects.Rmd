@@ -1,12 +1,93 @@
 ---
-title: "Projects"
+title: "Projects & Publications"
 output: html_document
 ---
 
-# Projects
+# Projects & Publications
 
-## Project 1
-Short description...
+## Current Work – FSR Global (Research Associate)
 
-## Project 2
-Short description...
+### Resource Adequacy Handbook
+
+I am the primary researcher preparing a **two-part techno-policy handbook on power sector Resource Adequacy**,
+covering:
+
+- Theory and taxonomy of resource adequacy and its metrics  
+- Resilience and flexibility requirements  
+- Integrated Resource Adequacy Assessment (I-RAA) for modern power systems  
+
+### Energy Literacy & NLP (Erasmus+ Project)
+
+Lead researcher on an **Erasmus+ project** focused on understanding **energy literacy among adolescents** in European Union countries and beyond, using **Natural Language Processing (NLP)** to analyse student responses.
+
+### Teaching & Guest Lectures
+
+Guest Lecturer and Teaching Assistant for the **“Electricity Sector for Energy Transition”** course with the **Energy Transition Academy**, delivering sessions on:
+
+- Why an integrated framework on resource adequacy is needed  
+- Modern resource adequacy, resilience, and flexibility metrics  
+
+---
+
+## Previous Work – Datarivu (Data Analyst)
+
+Worked with **author and data journalist Rukmini Shrinivasan** and the Datarivu team on data-based projects and op-eds related to:
+
+- Law & order  
+- National and global politics  
+- Population and socio-economic issues  
+
+Collaborated with organisations such as:
+
+- **Omidyar Network India**  
+- **PANOS South Asia**  
+- Government partners on survey reporting
+
+### Selected Articles (Data Analysis Support)
+
+- *“December 2012 sexual assault case: Ten years on, the wrong lessons”* (2022)  
+- *“Communal rift highest in India, says Pew study”* (2022)  
+- *“It’s time to discuss depopulation”* (2022)  
+- *“Few Women, Many Lawyers: What A New Dataset On High Court Judges Reveals”* (2022)
+
+---
+
+## Earlier Experience – Fedina (Intern)
+
+**Fedina**, Bangalore – *July 2021 – December 2021*
+
+- Mobilised retired unorganised sector workers for meetings and outreach  
+- Coordinated with **BBMP** to support mid-day meal schemes  
+- Collected audio-visual material documenting the lives and struggles of retired unorganised sector workers
+
+---
+
+## Activities & Leadership
+
+- **Guest Lecturer** – *Why We Need an Integrated Framework on Resource Adequacy*  
+  - Electricity Sector for Energy Transition Course, Energy Transition Academy (2025)
+
+- **Operations & Outreach** – Confederation of Young Leaders – UN75 India (2020)  
+  - State in-charge (Tamil Nadu) coordinating SDG-themed meetings and outreach
+
+- **Treasurer**, Department of Economics – Madras Christian College (2017–2018)
+
+- Participant, **Environmental Leadership and Diplomacy Workshop** – US Consulate General, Chennai (2019)
+
+- Participant, **National Conference on Environmental Leadership and Policy Making** – India International Centre, New Delhi (2019)
+
+---
+
+## Reports (Selected)
+
+- *Integrated Resource Adequacy Assessment Framework: A Holistic Approach to Power System Reliability and Resilience* (2025)  
+- *Bridging Continents: European CBET Insights for South Asia’s Energy Future* (2024)
+
+---
+
+## Awards
+
+- All India **6th Rank**, Sarala Birla Memorial National Article Writing Competition – Birla Global University (2020)  
+- **Winner**, Finals, Maria Philip Memorial Inter Collegiate Debate Competition – XIME (2017)  
+- **Winner**, South Zone, Maria Philip Memorial Debate – XIME (2017)  
+- **Second Runner-up**, Economics Elocution – University of Madras (2017)

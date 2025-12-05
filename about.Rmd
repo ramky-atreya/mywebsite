@@ -1,5 +1,90 @@
 ---
-title: "About This Website"
+title: "About Me"
+output: html_document
 ---
 
-More about this website.
+
+
+<img src="profilepic.jpg" width="500" style="border-radius: 15px;">
+
+I am **Ramakrishnan Atreya**, an economics graduate turned researcher working on power sector policy, data, and youth-focused energy literacy.
+
+My work sits at the intersection of:
+
+- **Energy systems & policy** – especially Resource Adequacy and Demand Assessment  
+- **Data and storytelling** – using quantitative and qualitative tools to tell evidence-based stories
+- **Education and youth engagement** – designing and supporting projects that help young people understand complex topics
+
+Over the last few years I have worked as a **Research Associate at FSR Global** and previously as a **Data Analyst at Datarivu**, collaborating with journalists, philanthropy organisations, and government partners to build data-based narratives.
+
+---
+
+## My Interests
+- Energy Transition
+- Data
+- Economics
+- Research for Social Impact
+
+---
+
+## Education
+
+### Master’s in Economics  
+**Azim Premji University**, Bangalore  
+*September 2020 – May 2022*  
+- CGPA: 7.0
+
+### Diploma in International Relations and Diplomacy (Online)  
+**Indian Institute of Governance and Leadership**, New Delhi  
+*April 2020 – October 2020*  
+- Percentage: 74.25%
+
+### Bachelor’s in Economics  
+**Madras Christian College**, Chennai  
+*July 2016 – June 2019*  
+- Percentage: 83% (Top 5% of the batch)
+
+---
+
+## Skills
+
+### Research
+
+- Quantitative and qualitative analysis  
+- Policy analysis and report writing  
+- Literature review and synthesis
+
+### Programming & Data
+
+- Microsoft Office, NVivo, Stata  
+- R (basic), Python (basic)  
+- QGIS (basic), Tableau (basic)
+
+### Languages
+
+- **Tamil** (native)  
+- **English** (advanced)  
+- **Malayalam** (intermediate)  
+- **German** (B1 level)  
+- **Hindi** (working proficiency)
+
+---
+
+## Certifications
+
+- Core Course of SAFIR: Regulatory Experience in Infrastructure Sectors – IIM Ahmedabad (March 2025)
+- Deutsche Zertifikat A1, A2, B1 – Goethe Institut / Max Mueller Bhavan, Chennai (2017–2019)
+
+---
+
+## Interests
+
+I enjoy:
+
+- Carnatic vocal music  
+- Writing and poetry  
+- Meteorology and weather  
+- Languages and translation  
+- Coffee, cooking, and exploring different kinds of music (independent, classic, and Indian)
+
+
