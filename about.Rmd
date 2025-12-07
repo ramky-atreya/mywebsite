@@ -1,0 +1,127 @@
+---
+title: "About Me"
+output: html_document
+---
+
+<div class="about-card">
+<div class="about-hero">
+
+<div class="about-hero-text">
+
+## Who Am I?
+
+### Research Associate, FSR Global
+
+Previously
+
+<ul>
+  <li>Data Analyst, Datarivu Services Pvt. Ltd.</li>
+</ul>
+
+With 3 years of work experience, I am
+
+<ul>
+  <li>An economics graduate – Master’s from Azim Premji University</li>
+  <li>A diploma holder in International Relations and Diplomacy – Indian Institute of Governance and Leadership</li>
+</ul>
+
+</div>
+
+<div class="about-hero-photo">
+  <img src="profpic.jpeg" alt="Ramakrishnan in a meeting">
+</div>
+
+</div>
+</div>
+
+I am **Ramakrishnan Atreya**, an economics graduate turned researcher working on power sector policy, data, and youth-focused energy literacy.
+
+My work sits at the intersection of:
+
+- **Energy systems & policy** – especially Resource Adequacy and Demand Assessment  
+- **Data and storytelling** – using quantitative and qualitative tools to tell evidence-based stories  
+- **Education and youth engagement** – designing and supporting projects that help young people understand complex topics  
+
+Over the last few years I have worked as a **Research Associate at FSR Global** and previously as a **Data Analyst at Datarivu**, collaborating with journalists, philanthropy organisations, and government partners to build data-based narratives.
+
+---
+
+## My Interests
+
+<div class="section-box">
+<ul>
+  <li>Energy transition and power systems</li>
+  <li>Data, visualisation and evidence-based storytelling</li>
+  <li>Economics and public policy</li>
+  <li>Research for social impact</li>
+</ul>
+</div>
+
+---
+
+## Education
+
+<div class="edu-item">
+  <h3>Master’s in Economics</h3>
+  <p class="edu-meta">Azim Premji University, Bangalore · Sep 2020 – May 2022</p>
+  <p>CGPA: 7.0</p>
+</div>
+
+<div class="edu-item">
+  <h3>Diploma in International Relations and Diplomacy (Online)</h3>
+  <p class="edu-meta">Indian Institute of Governance and Leadership, New Delhi · Apr 2020 – Oct 2020</p>
+  <p>Percentage: 74.25%</p>
+</div>
+
+<div class="edu-item">
+  <h3>Bachelor’s in Economics</h3>
+  <p class="edu-meta">Madras Christian College, Chennai · Jul 2016 – Jun 2019</p>
+  <p>Percentage: 83% (Top 5% of the batch)</p>
+</div>
+
+---
+
+## Skills
+
+<div class="section-box">
+
+### Research
+
+- Quantitative and qualitative analysis  
+- Policy analysis and report writing  
+- Literature review and synthesis  
+
+### Programming & Data
+
+- Microsoft Office, NVivo, Stata  
+- R (basic), Python (basic)  
+- QGIS (basic), Tableau (basic)  
+
+### Languages
+
+- **Tamil** (native)  
+- **English** (advanced)  
+- **Malayalam** (intermediate)  
+- **German** (B1 level)  
+- **Hindi** (working proficiency)
+
+</div>
+
+---
+
+## Certifications
+
+- Core Course of SAFIR: Regulatory Experience in Infrastructure Sectors – IIM Ahmedabad (March 2025)  
+- Deutsche Zertifikat A1, A2, B1 – Goethe Institut / Max Mueller Bhavan, Chennai (2017–2019)
+
+---
+
+## Outside work
+
+I enjoy:
+
+- Carnatic vocal music  
+- Writing and poetry  
+- Meteorology and weather  
+- Languages and translation  
+- Coffee, cooking, and exploring different kinds of music (independent, classic, and Indian)

@@ -1,0 +1,31 @@
+name: "my-website"
+
+output_dir: "docs"
+
+navbar:
+  title: "Ramakrishnan"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Projects"
+      href: projects.html
+
+
+output:
+  html_document:
+    theme:
+      bootswatch: flatly
+      primary: "#4FC3F7"
+      secondary: "#4FC3F7"
+      base_font: "Source Sans Pro"
+      heading_font: "Oswald"
+      code_font: "Fira Code"
+    css: styles.css
+    includes:
+      in_header: header.html
+      after_body: footer.html
+
+
+

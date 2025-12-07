@@ -1,0 +1,30 @@
+---
+title: "Ramakrishnan Atreya"
+output: html_document
+---
+
+<img src="profilepic.jpg" class="hero-photo" alt="Ramakrishnan standing in campus">
+
+**Email:** [ramakrishnanatreya@gmail.com](mailto:ramakrishnanatreya@gmail.com)  
+**Location:** India  
+
+<a href="atreya.pdf" class="btn-main">Download CV</a>
+
+## Hello! I Am Ramakrishnan
+
+I am a Research Associate at **FSR Global**, working on energy transitions for the Global South.  
+My current work focuses on **Resource Adequacy** in power systems and **energy literacy** among young people, using Natural Language Processing (NLP).
+
+<p class="hero-tags">
+  <span class="tag">Resource Adequacy</span>
+  <span class="tag">Energy Transitions</span>
+  <span class="tag">Energy Literacy</span>
+  <span class="tag">NLP</span>
+</p>
+
+## What I Work On
+
+- Preparing a two-part techno-policy **handbook on power sector Resource Adequacy**
+- Researching **energy literacy among adolescents** in the European Union and beyond (Erasmus+ project)
+- Guest lecturing on **Resource Adequacy** at the **Energy Transition Academy**
+- Bringing together **data, storytelling, and policy** from my experience as a data analyst with Datarivu

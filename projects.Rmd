@@ -1,0 +1,165 @@
+---
+title: "Projects & Publications"
+output: html_document
+---
+
+## Projects
+
+<div class="card">
+  <h3>Integrated Resource Adequacy Assessment Framework: Theoretical Handbook</h3>
+
+  <p>
+    I am the primary researcher preparing a <strong>two-part techno-policy handbook on power sector Resource Adequacy</strong>, covering:
+  </p>
+
+  <ul>
+    <li>Theory and taxonomy of resource adequacy and its metrics</li>
+    <li>Resilience and flexibility requirements</li>
+    <li>Integrated Resource Adequacy Assessment (I-RAA) for modern power systems</li>
+  </ul>
+</div>
+
+<div class="card">
+  <h3>Energy Literacy &amp; NLP (Erasmus+ Project)</h3>
+
+  <p>
+    Lead researcher on an <strong>Erasmus+ project</strong> studying
+    <strong>energy literacy among adolescents</strong> in Europe, using
+    <strong>Natural Language Processing (NLP)</strong> to analyse student responses.
+  </p>
+</div>
+
+<div class="card">
+  <h3>Teaching &amp; Guest Lectures</h3>
+
+  <p>
+    Guest Lecturer and Teaching Assistant for <strong>"Electricity Sector for Energy Transition"</strong>
+    at the <strong>Energy Transition Academy</strong>, delivering sessions on:
+  </p>
+
+  <ul>
+    <li>Why an integrated framework on resource adequacy is needed</li>
+    <li>Modern resource adequacy, resilience, and flexibility metrics</li>
+  </ul>
+</div>
+
+---
+
+## Reports (Selected)
+
+<div class="card">
+  <ul>
+    <li>
+      <em>Integrated Resource Adequacy Assessment Framework: A Holistic Approach to Power System Reliability and Resilience</em> (2025) –
+      <a href="https://drive.google.com/file/d/1rGF_XzjMXB-Tss99Bg2I7shAD-427g_M/view?usp=drive_link" target="_blank" class="btn-small">Download report</a>
+    </li>
+    <li>
+      <em>Bridging Continents: European CBET Insights for South Asia’s Energy Future</em> (2024) –
+      <a href="cbet.pdf" class="btn-small">Download report</a>
+    </li>
+  </ul>
+</div>
+
+---
+
+## Articles
+
+<div class="card">
+  <h3>Articles as a Research Associate</h3>
+
+  <ul>
+    <li>
+      <a href="https://fsrglobal.org/beyond-the-grid-what-teens-need-to-know-and-do-about-energy-justice-and-climate/" target="_blank">Beyond the Grid: What Teens Need to Know (and Do) About Energy, Justice, and Climate (2025)</a>
+    </li>
+    <li>
+      <a href="https://fsrglobal.org/electricity-demand-assessment/" target="_blank">Electricity Demand Assessment (2025)</a>
+    </li>
+  </ul>
+
+  <h3> Articles providing Data Analysis Support</h3>
+
+  <ul>
+    <li>
+      <a href="https://indianexpress.com/article/opinion/columns/december-2012-delhi-gangrape-ten-years-wrong-lessons-8328670/" target="_blank">December 2012 sexual assault case: Ten years on, the wrong lessons (2022)</a>
+    </li>
+    <li>
+      <a href="https://www.livemint.com/news/india/communal-rift-highest-in-india-says-pew-study-11669743517440.html" target="_blank">Communal rift highest in India, says Pew study (2022)</a>
+    </li>
+    <li>
+      <a href="https://www.thehindu.com/opinion/op-ed/its-time-to-discuss-depopulation/article66191140.ece" target="_blank">It’s time to discuss depopulation (2022)</a>
+    </li>
+    <li>
+      <a href="https://www.indiaspend.com/data-gaps/few-women-many-lawyers-what-a-new-dataset-on-high-court-judges-reveals-835627" target="_blank">Few Women, Many Lawyers: What A New Dataset On High Court Judges Reveals (2022)</a>
+    </li>
+  </ul>
+</div>
+
+
+---
+
+## Previous Work – Datarivu (Data Analyst)
+
+<div class="card">
+  <p>
+    Worked with <strong>author and data journalist Rukmini Shrinivasan</strong> and the Datarivu team on data-based
+    projects and op-eds related to:
+  </p>
+
+  <ul>
+    <li>Law &amp; order</li>
+    <li>National and global politics</li>
+    <li>Population and socio-economic issues</li>
+  </ul>
+
+  <p>Collaborated with organisations such as:</p>
+
+  <ul>
+    <li><strong>Omidyar Network India</strong></li>
+    <li><strong>PANOS South Asia</strong></li>
+    <li>Government partners on survey reporting</li>
+  </ul>
+</div>
+
+---
+
+## Earlier Experience – Fedina (Intern)
+
+<div class="card">
+  <h3>Fedina, Bangalore – <em>July 2021 – December 2021</em></h3>
+
+  <ul>
+    <li>Mobilised retired unorganised sector workers for meetings and outreach</li>
+    <li>Coordinated with <strong>BBMP</strong> to support mid-day meal schemes</li>
+    <li>Collected audio-visual material documenting the lives and struggles of retired unorganised sector workers</li>
+  </ul>
+</div>
+
+---
+
+## Activities &amp; Leadership
+
+<div class="card">
+  <p><strong>State in-charge, Tamil Nadu</strong> – Confederation of Young Leaders – UN75 India (2020)</p>
+  <ul>
+    <li>Coordinating SDG-themed meetings and outreach</li>
+  </ul>
+
+  <p><strong>Treasurer</strong>, Department of Economics – Madras Christian College (2017–2018)</p>
+
+  <p><strong>Participant, National Conference on Environmental Leadership and Policy Making</strong> – India International Centre, New Delhi (2019)</p>
+
+  <p><strong>Participant, Environmental Leadership and Diplomacy Workshop</strong> – US Consulate General, Chennai (2019)</p>
+</div>
+
+---
+
+## Awards
+
+<div class="card">
+  <ul>
+    <li>All India <strong>6th Rank</strong>, Sarala Birla Memorial National Article Writing Competition – Birla Global University (2020)</li>
+    <li><strong>Winner</strong>, Finals, Maria Philip Memorial Inter Collegiate Debate Competition – XIME (2017)</li>
+    <li><strong>Winner</strong>, South Zone, Maria Philip Memorial Debate – XIME (2017)</li>
+    <li><strong>Second Runner-up</strong>, Economics Elocution – University of Madras (2017)</li>
+  </ul>
+</div>
