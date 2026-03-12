@@ -50,12 +50,12 @@ output: html_document
 <div class="card">
   <ul>
     <li>
-      <em>Integrated Resource Adequacy Assessment Framework: A Holistic Approach to Power System Reliability and Resilience</em> (2025) –
-      <a href="https://drive.google.com/file/d/1rGF_XzjMXB-Tss99Bg2I7shAD-427g_M/view?usp=drive_link" target="_blank" class="btn-small">Download report</a>
+      <em>Integrated Resource Adequacy Assessment Framework: A Holistic Approach to Power System Reliability and Resilience, Published by FSR Global</em> (2025) –
+      <a href="https://fsrglobal.org/integrated-resource-adequacy-assessment-i-raa-framework/" target="_blank" class="btn-small">Download report</a>
     </li>
     <li>
-      <em>Bridging Continents: European CBET Insights for South Asia’s Energy Future</em> (2024) –
-      <a href="cbet.pdf" class="btn-small">Download report</a>
+      <em>Bridging Continents: European CBET Insights for South Asia’s Energy Future, Published by FSR Global</em> (2024) –
+      <a href="https://fsrglobal.org/bridging-continents-european-cbet-insights-for-south-asias-energy-future/" class="btn-small">Download report</a>
     </li>
   </ul>
 </div>
